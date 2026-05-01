@@ -54,11 +54,13 @@ cd Team-Task-Manager
 
 ```
 ## 🖼️ Project Screenshots
-<img width="1905" height="867" alt="Screenshot 2026-05-01 100647" src="https://github.com/user-attachments/assets/fda38da1-2fa8-4f24-80b7-d307475a7ac4" />
+<img width="1585" height="771" alt="Screenshot 2026-05-01 194016" src="https://github.com/user-attachments/assets/76d28356-a6bc-4323-b868-3c7d9c24cd70" />
+
 
 ---
 
-<img width="1310" height="834" alt="Screenshot 2026-05-01 103405" src="https://github.com/user-attachments/assets/9f035eff-f5a8-41d2-9387-51af6b56eecc" />
+<img width="1273" height="774" alt="Screenshot 2026-05-01 193908" src="https://github.com/user-attachments/assets/f853cfb1-f622-4ed1-9d8f-0ad008d2f4ac" />
+
 
 ## 📂 Project Structure
 ```bash
